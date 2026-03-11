@@ -1,0 +1,34 @@
+{
+    "Hand": [
+        { "CardFace": 7, "CardSuit": 0, "FaceUp": true, "Position": {"x": 540, "y": 200} }
+    ],
+    "Playfield": [
+        { "CardFace": 3,  "CardSuit": 0, "FaceUp": true,  "Position": {"x": 200, "y": 1200} },
+        { "CardFace": 2,  "CardSuit": 2, "FaceUp": true,  "Position": {"x": 540, "y": 1200} },
+        { "CardFace": 8,  "CardSuit": 3, "FaceUp": true,  "Position": {"x": 880, "y": 1200} },
+        { "CardFace": 0,  "CardSuit": 1, "FaceUp": false, "Position": {"x": 140, "y": 1060} },
+        { "CardFace": 5,  "CardSuit": 2, "FaceUp": false, "Position": {"x": 260, "y": 1060} },
+        { "CardFace": 11, "CardSuit": 3, "FaceUp": false, "Position": {"x": 480, "y": 1060} },
+        { "CardFace": 6,  "CardSuit": 0, "FaceUp": false, "Position": {"x": 600, "y": 1060} },
+        { "CardFace": 4,  "CardSuit": 1, "FaceUp": false, "Position": {"x": 820, "y": 1060} },
+        { "CardFace": 9,  "CardSuit": 2, "FaceUp": false, "Position": {"x": 940, "y": 1060} },
+        { "CardFace": 1,  "CardSuit": 3, "FaceUp": false, "Position": {"x":  80, "y": 920}  },
+        { "CardFace": 10, "CardSuit": 0, "FaceUp": false, "Position": {"x": 200, "y": 920}  },
+        { "CardFace": 3,  "CardSuit": 1, "FaceUp": false, "Position": {"x": 320, "y": 920}  },
+        { "CardFace": 7,  "CardSuit": 2, "FaceUp": false, "Position": {"x": 420, "y": 920}  },
+        { "CardFace": 5,  "CardSuit": 3, "FaceUp": false, "Position": {"x": 540, "y": 920}  },
+        { "CardFace": 12, "CardSuit": 0, "FaceUp": false, "Position": {"x": 660, "y": 920}  },
+        { "CardFace": 2,  "CardSuit": 1, "FaceUp": false, "Position": {"x": 760, "y": 920}  },
+        { "CardFace": 8,  "CardSuit": 0, "FaceUp": false, "Position": {"x": 880, "y": 920}  },
+        { "CardFace": 0,  "CardSuit": 2, "FaceUp": false, "Position": {"x":1000, "y": 920}  }
+    ],
+    "Reserve": [
+        { "CardFace": 6,  "CardSuit": 2, "FaceUp": false, "Position": {"x": 180, "y": 200} },
+        { "CardFace": 0,  "CardSuit": 3, "FaceUp": false, "Position": {"x": 180, "y": 200} },
+        { "CardFace": 4,  "CardSuit": 0, "FaceUp": false, "Position": {"x": 180, "y": 200} },
+        { "CardFace": 9,  "CardSuit": 1, "FaceUp": false, "Position": {"x": 180, "y": 200} },
+        { "CardFace": 1,  "CardSuit": 2, "FaceUp": false, "Position": {"x": 180, "y": 200} },
+        { "CardFace": 11, "CardSuit": 0, "FaceUp": false, "Position": {"x": 180, "y": 200} },
+        { "CardFace": 10, "CardSuit": 3, "FaceUp": false, "Position": {"x": 180, "y": 200} }
+    ]
+}

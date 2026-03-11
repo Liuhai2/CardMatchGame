@@ -1,0 +1,35 @@
+/.vs/
+/build/
+/node_modules/
+/out/
+
+# Cocos2d-x engine source (public third-party)
+/cocos2d/
+
+# Other platform projects
+/proj.android/
+/proj.ios_mac/
+/proj.linux/
+
+# Win32 build outputs
+/proj.win32/Debug.win32/
+/proj.win32/Release.win32/
+/proj.win32/x64/Debug/
+/proj.win32/x64/Release/
+/proj.win32/x64/
+
+# Binary artifacts
+*.pdb
+*.lib
+*.suo
+*.user
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.obj
+*.idb
+*.res
+*.ilk
+*.exe
+*.tlog
